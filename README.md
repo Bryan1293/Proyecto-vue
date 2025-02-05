@@ -1,3 +1,9 @@
+## Autor
+- Nombre: Paredes Miranda Bryan Humberto  
+- Email: a21311054@uthermosillo.edu.mx  
+- GitHub: [@Bryan1293](https://github.com/Bryan1293/Proyecto-vue)
+
+
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
